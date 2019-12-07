@@ -1,7 +1,7 @@
 ## 📊 Sorting.Visulizer
 --------------------
 
-## 💡 What ```Sorting.Visualizer``` do ?!
+## 💡 What is ```Sorting.Visualizer``` ?!
 --------------------------------------
 #### Sorting.Visualizer is a web app for visualizing a bunch of different sorting algorithms Like
 1. Selection Sort.
