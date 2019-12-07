@@ -3,7 +3,7 @@
 
 ## 💡 What ```Sorting.Visualizer``` do ?!
 --------------------------------------
-#### Sorting.Visualizer is a web app for visualizaing a bunch of different sorting algorithms Like
+#### Sorting.Visualizer is a web app for visualizing a bunch of different sorting algorithms Like
 1. Selection Sort.
 2. Bubble Sort.
 3. Insertion Sort.
