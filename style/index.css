@@ -1,0 +1,98 @@
+*{
+	margin: 0;
+}
+@font-face {
+    font-family: "Pacifico";
+    src: url("Fonts/Pacifico-Regular.woff2") format('woff2');
+}
+
+#container{
+	display: flex;
+	margin: 0 auto;
+	width: intrinsic;           
+  	width: -moz-max-content;   
+ 	width: -webkit-max-content;
+	height: 60%;
+}
+
+#b{
+	display: inline-block;
+	margin-left: 1vw;
+	width: 1vw;
+}
+
+#d{
+	display: inline-block;
+	margin-left: 1vw;
+	width: 1vw;
+}
+#bars, #delay{
+	vertical-align: middle;
+}
+
+.header{
+	display: flex;
+	flex-wrap: wrap;
+	font-weight: bold;
+	background-color: #fd0081;
+	margin: 0;
+	color: white;
+	padding: 1vw 1vw 2vw 1vw;
+	margin-bottom: 2vw;
+}
+h1{
+	font-size: 3vw;
+	font-family: Pacifico, cursive;
+	font-weight: lighter;
+	width: 25%
+	text-align: center;
+}
+.range{
+	justify-content: space-evenly;
+	display: flex;
+	flex-wrap: wrap;
+	flex-flow: wrap;
+}
+.slide{
+	margin: 0vw 1vw;
+}
+.bar{
+	border: 0.05vw solid black;
+	width:0.6vw;
+	margin:0.1vw;
+	background-color: #fd0081;
+}
+.sorts{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.vars{
+	width: 60%;
+	align-self: flex-start;
+	text-align: center;
+	font-size: 1.3vw;
+	font-family: sans-serif;
+}
+input[type="button"] {
+	margin: 1.5vw 0.5vw;
+}
+input[type="button"]:hover, button:hover{
+	background-color: #f8a7a7;
+	cursor: pointer;
+	color: #1200a4;
+}
+input[type="button"]:disabled, input[type="range"]:disabled{
+	background-color: #ffffff;
+	cursor: not-allowed;
+	color: blue;
+}
+input[type="button"], button{
+	background: white;
+	border: none;
+	padding: 1.3vh;
+	border-radius: 9vw;
+	min-width: 8vw;
+	color: rgb(6, 6, 223);
+	font-size: 1.2vw;
+}
