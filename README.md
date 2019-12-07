@@ -11,7 +11,7 @@
 5. Quick Sort.
 6. Heap Sort.
 
-With the functionality of ⏳```(Speed Control)```   and   📏```(Array Size Control)``` 
+With the functionality of ⏳```(Processing Speed Control)```   and   📏```(Array Size Control)``` 
 ## ⚙ How it works ?!
 -------------------
 Here in our model, each element value is represented by ```THE SIZE OF THE BAR``` and the algorithms sort them by placing the smallest elements on the left and the biggest elements on the right.
