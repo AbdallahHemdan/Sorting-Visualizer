@@ -16,7 +16,7 @@ With the functionality of ⏳```(Speed Control)```   and   📏```(Array Size Co
 -------------------
 Here in our model, each element value is represented by ```THE SIZE OF THE BAR``` and the algorithms sort them by placing the smallest elements on the left and the biggest elements on the right.
 
-The algorithms moves the items around by swapping elements, Withour using addational memory with creating another array.
+The algorithms moves the items around by swapping elements, Without using any addational memory with creating another array.
 
 ## 📷 ScreenShots 
 ------------------
