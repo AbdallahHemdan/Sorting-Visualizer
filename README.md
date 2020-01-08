@@ -1,7 +1,12 @@
+<div align="center">
+
 [![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/issues)
 [![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/network)
 [![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/stargazers)
 [![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/blob/master/LICENSE)
+
+</div>
+
 ## 📊 Sorting.Visulizer 🕹[Try It Now](https://hamdolavisualizer.netlify.com/?fbclid=IwAR0YJMegmtW4CKDtiUM256qrCGwxbQqUDq0OJK6qjAqGiYdaS-oPdq3pFX8)
 --------------------
 
