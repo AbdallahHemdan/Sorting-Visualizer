@@ -1,5 +1,7 @@
+<h3 align="center">Sorting.Visualizer</h3>
 <div align="center">
 
+[![GitHub contributors](https://img.shields.io/github/contributors/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/issues)
 [![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/issues)
 [![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/network)
 [![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/Sorting.Visualizer)](https://github.com/AbdallahHemdan/Sorting.Visualizer/stargazers)
