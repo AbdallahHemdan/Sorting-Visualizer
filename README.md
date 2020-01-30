@@ -1,3 +1,8 @@
+<p align="center">
+  
+<img src="https://github.com/AbdallahHemdan/Sorting.Visualizer/blob/master/img/Sorting%20Visualization.png" alt = "Sorting-Visualization">
+
+</p>
 <h3 align="center">Sorting.Visualizer</h3>
 <div align="center">
 
